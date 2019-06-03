@@ -1,0 +1,32 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/mjr27/Itage.FontIcon</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/mjr27/Itage.FontIcon</RepositoryUrl>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <AssemblyVersion>0.0.1.0</AssemblyVersion>
+   
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Itage.FontIcon\Itage.FontIcon.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="..\..\vendor\line-awesome\dist\fonts\line-awesome.ttf" Link="Resources\line-awesome.ttf" />
+  </ItemGroup>
+</Project>
+<!--
+
+using System.Runtime.InteropServices;
+using System.Windows.Markup;
+
+
+[assembly: ComVisible(false)]
+[assembly: XmlnsPrefix("http://schemas.itage.biz/wpf/xaml/font-icon", "ficon")]
+
+
+-->

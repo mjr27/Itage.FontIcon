@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28917.182
+MinimumVisualStudioVersion = 15.0.26124.0
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Itage.FontIcon", "src\Itage.FontIcon\Itage.FontIcon.csproj", "{4E499158-DE38-4090-83D7-320C5EDCF5E3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Itage.FontIcon.LineAwesome", "src\Itage.FontIcon.LineAwesome\Itage.FontIcon.LineAwesome.csproj", "{D86A0303-CC68-45C0-9438-CCBCD6F2949D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E499158-DE38-4090-83D7-320C5EDCF5E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E499158-DE38-4090-83D7-320C5EDCF5E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E499158-DE38-4090-83D7-320C5EDCF5E3}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{4E499158-DE38-4090-83D7-320C5EDCF5E3}.Debug|x64.Build.0 = Debug|Any CPU
+		{4E499158-DE38-4090-83D7-320C5EDCF5E3}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{4E499158-DE38-4090-83D7-320C5EDCF5E3}.Debug|x86.Build.0 = Debug|Any CPU
+		{4E499158-DE38-4090-83D7-320C5EDCF5E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E499158-DE38-4090-83D7-320C5EDCF5E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E499158-DE38-4090-83D7-320C5EDCF5E3}.Release|x64.ActiveCfg = Release|Any CPU
+		{4E499158-DE38-4090-83D7-320C5EDCF5E3}.Release|x64.Build.0 = Release|Any CPU
+		{4E499158-DE38-4090-83D7-320C5EDCF5E3}.Release|x86.ActiveCfg = Release|Any CPU
+		{4E499158-DE38-4090-83D7-320C5EDCF5E3}.Release|x86.Build.0 = Release|Any CPU
+		{D86A0303-CC68-45C0-9438-CCBCD6F2949D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D86A0303-CC68-45C0-9438-CCBCD6F2949D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D86A0303-CC68-45C0-9438-CCBCD6F2949D}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{D86A0303-CC68-45C0-9438-CCBCD6F2949D}.Debug|x64.Build.0 = Debug|Any CPU
+		{D86A0303-CC68-45C0-9438-CCBCD6F2949D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D86A0303-CC68-45C0-9438-CCBCD6F2949D}.Debug|x86.Build.0 = Debug|Any CPU
+		{D86A0303-CC68-45C0-9438-CCBCD6F2949D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D86A0303-CC68-45C0-9438-CCBCD6F2949D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D86A0303-CC68-45C0-9438-CCBCD6F2949D}.Release|x64.ActiveCfg = Release|Any CPU
+		{D86A0303-CC68-45C0-9438-CCBCD6F2949D}.Release|x64.Build.0 = Release|Any CPU
+		{D86A0303-CC68-45C0-9438-CCBCD6F2949D}.Release|x86.ActiveCfg = Release|Any CPU
+		{D86A0303-CC68-45C0-9438-CCBCD6F2949D}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E63295C-23B9-463B-A1AF-F47D247F27F8}
+	EndGlobalSection
+EndGlobal
