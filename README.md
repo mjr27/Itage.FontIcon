@@ -56,4 +56,9 @@ public class MyFontIcon : BaseFontIcon<MyFontIconType>
 
 That's all!
 
-Now you can use `<ns:MyFontIcon Icon="MyGlyph">` in your views,
+Now you can use 
+```xml
+<ns:MyFontIcon Icon="MyGlyph" />
+
+``` 
+in your views,
