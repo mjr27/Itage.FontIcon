@@ -6,14 +6,14 @@
     <PackageLicenseFile></PackageLicenseFile>
     <PackageProjectUrl>https://github.com/mjr27/Itage.FontIcon</PackageProjectUrl>
     <RepositoryUrl>https://github.com/mjr27/Itage.FontIcon</RepositoryUrl>
-    <Version>0.1.0.0</Version>
-    <AssemblyVersion>0.1.0.0</AssemblyVersion>
+    <Version>0.2.0.0</Version>
+    <AssemblyVersion>0.2.0.0</AssemblyVersion>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <Authors>itage.biz</Authors>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Itage.FontIcon" Version="0.1.0" />
+    <ProjectReference Include="..\Itage.FontIcon\Itage.FontIcon.csproj" />
   </ItemGroup>
 
   <ItemGroup>
